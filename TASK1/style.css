@@ -1,0 +1,94 @@
+html,
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  box-sizing: border-box;
+  background-color: rgb(249, 184, 184);
+}
+
+.container {
+  width: 100%;
+  min-height: 200px;
+  background: linear-gradient(135deg, #153677, #4e085f);
+}
+
+#taskInput {
+  width: 300px;
+  padding: 10px;
+  height: 40px;
+  border-width: 0;
+  border: 1px solid black;
+  outline: none;
+  background: pink;
+  font-size: 30px;
+  vertical-align: center;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 100px;
+  margin-bottom: 10px;
+}
+
+#addToDO {
+  width: 100%;
+  max-width: 540px;
+  background: pink;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: #002765;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Add this line to center the title horizontally */
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 16px 50px;
+  background: #e843a9;
+  color: #fff;
+  font-size: 10px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+
+.box {
+  display: flex;
+  width: 1100px;
+  background-color: rgb(206 239 226);
+  height: 500px;
+  align-items: center;
+  border-radius: 30px;
+  margin-top: 30px;
+  padding: 3px 60px 0px 60px;
+  box-shadow: 4px 4px 6px grey;
+}
+
+.paragraph-style {
+  margin: 0;
+  cursor: pointer;
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  background-color: white;
+  margin: 1.2px;
+  padding-left: 10px;
+  border-radius: 2px;
+}
+
+.paragraph-style::before {
+  content: "\2713"; /* Unicode character for a tick */
+  margin-right: 5px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.to-dos {
+  margin-top: 25px;
+}
