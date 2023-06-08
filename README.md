@@ -3,6 +3,7 @@ Virtual Internship Task
 
 ## TASK 1: ["My To Do List"](https://github.com/anishakshyp/LGM-VIP-WEB-DEV/tree/main/TASK1)
 
+## TASK 2: ' Web Application"
 
 ## TASK 3: "Registration Form"
 
