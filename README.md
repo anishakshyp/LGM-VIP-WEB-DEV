@@ -5,7 +5,7 @@ Virtual Internship Task
 
 ## TASK 2: ' Web Application"
 
-## TASK 3: ["Registration Form"]("https://github.com/anishakshyp/LGM-VIP-WEB-DEV/tree/main/TASK3")
+## TASK 3: ["Registration Form"](https://github.com/anishakshyp/LGM-VIP-WEB-DEV/tree/main/TASK3)
 
 ## TASK 4: ["Calculator"](https://github.com/anishakshyp/LGM-VIP-WEB-DEV/tree/main/TASK4)
 
