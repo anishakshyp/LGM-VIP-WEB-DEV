@@ -1,4 +1,4 @@
-## ## About The Task
+## About The Task
 Created a Student Registration Form whose data is displayed on the same page.
 
 ## Tech Stack Used -
